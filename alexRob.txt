@@ -1,5 +1,10 @@
 Este es un nuevo file...!
 Lo estamos elaborando robert y alex
+<<<<<<< HEAD
 Segunda ves elaborando commit
 Este es el tercer commit
 Este es el commit sobre el branch
+=======
+
+Este es un pedazo de texto de hilario
+>>>>>>> alex
